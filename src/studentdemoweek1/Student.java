@@ -15,6 +15,7 @@ public class Student
     private String name;
     private String studentID;
     private String program;
+    private String email;
     
     public Student()
     {
